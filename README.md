@@ -33,5 +33,5 @@
 ![image](https://user-images.githubusercontent.com/48664269/229175743-c6e73a0b-1004-477f-8797-abe58172820e.png)        
 
 
-**4. 키보드 왼쪽 키를 통해 log 종료하면 지정한 Email로 log 파일 수신하고 log.txt 로컬에서 제거!**
+**4. 키보드 왼쪽 키 입력시 logging 종료되고, 지정한 Email로 log 파일 전송 및 log.txt 로컬에서 제거!**
 
