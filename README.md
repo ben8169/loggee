@@ -2,8 +2,8 @@
 ## self-made keylogger(for education and study only)**
 
 **제작자 - 스꾸(ben8169)  
-깃허브 - https://github.com/ben8169    
-티스토리 - https://ben8169.tistory.com/** 
+깃허브 - https://github.com/ben8169/loggee  
+티스토리 - https://ben8169.tistory.com/9** 
 
 <hr>   
 
