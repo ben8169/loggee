@@ -21,7 +21,7 @@
 
 > ### How to Use
 
-**1. log.txt를 임시로 저장할 Path 설정  **   
+**1. log.txt를 임시로 저장할 Path 설정**   
 ![image](https://user-images.githubusercontent.com/48664269/229177575-ad10ed0a-23ca-4fae-a4f8-670691a07755.png)
 
 **2. stmp모듈용 google 계정의 '앱 비밀번호'를 발급뱓아 입력** (참고 - https://support.bespinglobal.com/ko/support/solutions/articles/73000545275--gmail-%EC%95%B1-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%83%9D%EC%84%B1%EB%B0%A9%EB%B2%95)
