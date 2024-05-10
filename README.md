@@ -1,7 +1,7 @@
 # 키로깅 TXT 생성 및 이메일 전송 프로그램 LOGGEE
 ## self-made keylogger(for education and study only)**
 
-**제작자 - 스꾸(ben8169)  
+**제작자 - ben8169
 깃허브 - https://github.com/ben8169/loggee  
 티스토리(시연 설명) - https://ben8169.tistory.com/9** 
 
